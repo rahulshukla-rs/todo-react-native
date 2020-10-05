@@ -30,8 +30,10 @@ OR
 
 
 ## ScreenShot
+<span>
 <img src="assets/screens/home_ss.png" alt="home screen" height="400px">
 <img src="assets/screens/home_ss_error.png" alt="home screen" height="400px">
+</span>
 
 ## License
 
